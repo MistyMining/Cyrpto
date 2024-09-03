@@ -1,6 +1,6 @@
 {
-  "name": "MistyMining",
-  "symbol": "$MISTYM",
+  "name": "MistyMining Devnet",
+  "symbol": "$MISTYM-DEVNET",
   "description": "MistyMining bridges Minecraft and the Solana blockchain, creating a unique play-to-earn experience. Join a vibrant community where you can earn cryptocurrency while enjoying playing Minecraft.",
   "image": "https://raw.githubusercontent.com/MistyMining/Cyrpto/main/MistyMining.jpeg",
   "external_url": "https://mistymining.com",
