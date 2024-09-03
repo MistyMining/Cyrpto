@@ -1,17 +1,7 @@
 {
-  "name": "MistyMining Devnet",
-  "symbol": "$MISTYM-DEVNET",
+  "name": "MistyMining",
+  "symbol": "$MISTYM",
   "description": "MistyMining bridges Minecraft and the Solana blockchain, creating a unique play-to-earn experience. Join a vibrant community where you can earn cryptocurrency while enjoying playing Minecraft.",
   "image": "https://raw.githubusercontent.com/MistyMining/Cyrpto/main/MistyMining.jpeg",
-  "external_url": "https://mistymining.com",
-  "attributes": [
-    {
-      "trait_type": "Blockchain",
-      "value": "Solana"
-    },
-    {
-      "trait_type": "Game",
-      "value": "Minecraft"
-    }
-  ]
+  "external_url": "https://mistymining.com"
 }
